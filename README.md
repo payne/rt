@@ -11,7 +11,7 @@ A collection of amateur radio repeater frequencies converted to CHIRP-compatible
 5. AB0VX -- yes
 6. K0BOY -- yes
 7. N0YMJ -- no 
-8. K0BOY 2 -- 
+8. K0BOY 2 -- yes
 
 
 
