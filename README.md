@@ -2,6 +2,19 @@
 
 A collection of amateur radio repeater frequencies converted to CHIRP-compatible format.
 
+## Notes from 19 May 2026
+
+1. K0RPT -- no
+2. W0JJK -- yes with CTCSS of 131.8
+3. K0ASH -- yes but needs a retry
+4. KD0PGV -- no.
+5. AB0VX -- yes
+6. K0BOY -- yes
+7. N0YMJ -- no 
+8. K0BOY 2 -- 
+
+
+
 ## Files
 
 - `list.txt` - Original repeater list in text format
