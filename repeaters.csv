@@ -1,0 +1,9 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL
+0,K0RPT,147.045000,+,0.600000,Tone,88.5,88.5,023,NN,FM,5.00,,NeARES System,,,
+1,W0JJK,145.235000,-,0.600000,Tone,131.8,131.8,023,NN,FM,5.00,,Storm Spotting,,,
+2,Ashland,145.310000,-,0.600000,,88.5,88.5,023,NN,FM,5.00,,,,,
+3,Valley,145.265000,-,0.600000,,88.5,88.5,023,NN,FM,5.00,,FM and Wires-X,,,
+4,HoneyCreek,145.410000,-,0.600000,Tone,97.4,97.4,023,NN,FM,5.00,,IRLP connected,,,
+5,K0BOY,145.450000,-,0.600000,Tone,131.8,131.8,023,NN,FM,5.00,,,,,
+6,N0YMJ,145.370000,-,0.600000,,88.5,88.5,023,NN,FM,5.00,,,,,
+7,K0BOY 2,147.360000,+,0.600000,,88.5,88.5,023,NN,FM,5.00,,,,,
