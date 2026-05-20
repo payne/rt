@@ -14,6 +14,14 @@ A collection of amateur radio repeater frequencies converted to CHIRP-compatible
 8. K0BOY 2 -- yes
 
 
+## List for 19 May 2026
+2. W0JJK -- yes with CTCSS of 131.8
+5. AB0VX -- yes
+6. K0BOY -- yes
+8. K0BOY 2 -- yes
+3. K0ASH -- yes fair amount of band noise (aka "static")
+
+
 
 ## Files
 
