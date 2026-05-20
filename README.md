@@ -6,7 +6,7 @@ A collection of amateur radio repeater frequencies converted to CHIRP-compatible
 
 1. K0RPT -- no
 2. W0JJK -- yes with CTCSS of 131.8
-3. K0ASH -- yes but needs a retry
+3. K0ASH -- yes fair amount of band noise (aka "static")
 4. KD0PGV -- no.
 5. AB0VX -- yes
 6. K0BOY -- yes
